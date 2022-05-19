@@ -1,0 +1,5 @@
+make changes
+stage
+unstage
+push into remote
+pull from remote
